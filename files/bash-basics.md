@@ -1,4 +1,4 @@
-# Basic Bash (Bourne-again shell) basic
+# Basic Bash (Bourne-again shell) basics
 
 **pwd** - Print working directory
 ```

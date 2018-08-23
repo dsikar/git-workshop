@@ -55,7 +55,7 @@ Changes to be committed:
 
 ### 6. Commit using message switch **-m** to add a message - **git commit** (Commit modifications)
 ```
-$ git commit -m "Initial commit -m"
+$ git commit -m "Initial commit"
 [master (root-commit) 0578e2f] Initial commit.
  1 file changed, 1 insertion(+)
  create mode 100644 README.md

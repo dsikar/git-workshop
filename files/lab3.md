@@ -197,7 +197,9 @@ index a2beefd..8ab96a0 100644
 +
 +Development roadmap
 ```
-#### 19.3 Verify changed file names using hashes  
+#### 19.3 Verify changed file names using hashes
+**Productivity tip** - retrieve previously typed commands with the up arrow key
+
 ```
 $ git diff --name-only 0578e 84150
 README.md

@@ -172,6 +172,8 @@ Date:   Tue Aug 21 09:51:05 2018 +0100
 
 ### 19. Verify differences between commits using commit hashes and HEAD notation - **git diff** 
 #### 19.1 Using hashes  
+**Productivity tip** - in Git-Bash, highlight string using mouse, copy with CTRL + Insert kyes, paste with CTRL + SHIFT + Insert keys
+
 ```
 $ git diff 0578e 84150
 diff --git a/README.md b/README.md

@@ -29,7 +29,8 @@ git config --global user.email
 git config --global user.name
 ```
 
-**git clone** - Cloning a repository - note your repository url might be different
+**git clone** - Cloning a repository - note your might need to append your JCI User ID to git repository URL
+
 ```
 $ git clone https://jsikard@github.jci.com/jsikard/git-workshop.git
 Cloning into 'git-workshop'...
@@ -52,6 +53,13 @@ $ cd git-workshop
 ```
 $ git remote
 origin
+```
+
+Verbose switch -v
+```
+$ git remote -v
+origin  https://jsikard@github.jci.com/jsikard/git-workshop.git (fetch)
+origin  https://jsikard@github.jci.com/jsikard/git-workshop.git (push)
 ```
 
 **git branch** - What branch are we working on?
@@ -81,25 +89,9 @@ Author: Daniel Sikar <daniel.sikar@jci.com>
 Date:   Tue Aug 7 09:11:54 2018 +0100
 ```
 
-Verbose switch -v
-```
-$ git remote -v
-origin  https://jsikard@github.jci.com/jsikard/git-workshop.git (fetch)
-origin  https://jsikard@github.jci.com/jsikard/git-workshop.git (push)
-```
+[Go to Lab 1](lab1.md)
 
 
-Other git commands...
-**git init** - Initialise a repository, list hidden files in chronological and size descending order (-last)
-```
-$ cd ~/Documents/jci-git/
-$ git init multi-mx-simulator
-$ cd multi-mx-simulator
-$ ls -last
-```
 
-Notes, git repositories can be moved around like any set of files, sent as zip file, copied to pen drive, etc.  
-
-Please send any feedback comments to daniel.sikar@jci.com.
 
 

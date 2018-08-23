@@ -3,7 +3,7 @@
 **pwd** - Print working directory
 ```
 $ pwd
-/c/Users/dsikar/Documents/jci-git/git-workshop
+/c/Users/dsikar/
 ```
 
 **ls** - List directories   
@@ -26,6 +26,7 @@ $ mkdir temp
 ```
 $ cd temp
 $ cd ..
+$ cd Documents
 ```
 
 **rmdir** - Remove directory
@@ -72,7 +73,7 @@ $ history
 
 Repeat a command with exclamation mark and number notation, e.g. repeat command 1
 ```
-$!1
+$ !1
 ```
 
 

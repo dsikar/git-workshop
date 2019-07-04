@@ -1,7 +1,7 @@
 
 # LAB 3
 
-## Initialising, branching, diffing, merging, fetching, pulling and pushing
+## Initialising, branching, diffing, merging, pulling and pushing
 
 ### 1. Initialise a repository. Open Git-Bash, navigate to your jci-git directory and initialise a repository - git init
 

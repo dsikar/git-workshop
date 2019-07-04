@@ -5,6 +5,14 @@
 * Used to track software changes
 * Convenient
 
+## Other Version Control Systems you may have heard of
+
+* CVS
+* Mercurial
+* MKS
+* Sourcesafe
+* Subversion
+
 ## Three stages
 
 * Modified

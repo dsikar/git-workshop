@@ -2,8 +2,7 @@
 
 * Distributed Version Control System
 * Simple design
-
-Used to track software changes.  
+* Used to track software changes
 
 ## Three stages
 
